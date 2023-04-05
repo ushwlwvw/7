@@ -66,7 +66,7 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="‹ اضف البوت في مجموعتك ›",
+            text="‹ اضف البوت الى مجموعتك ›",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
